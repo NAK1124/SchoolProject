@@ -15,4 +15,6 @@ Then, the user can type the number for what they want to do and follow the promp
 
 Python Skills Used
 The project used several Python skills from the course: classes, functions, loops, lists, if and else statements, string formatting, etc
+
+Citations:
 “I asked AI for suggestions, but I wrote the code myself.”
