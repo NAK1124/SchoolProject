@@ -1,4 +1,4 @@
-# Alice’s Cute To-Do List
+# Alice’s Motivating To-Do List
 ICS3U Final Project by Alice Kim
 (i) What the Program does:
 This program is a simple text-based to-do list that lets users manage their daily tasks.
