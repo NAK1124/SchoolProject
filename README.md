@@ -13,6 +13,7 @@ The program will start like this:
 3) Mark task as done
 4) Remove task
 5) Quit
+
 Then, the user can type the number for what they want to do and follow the prompts to manage their tasks.
 
 Python Skills Used
